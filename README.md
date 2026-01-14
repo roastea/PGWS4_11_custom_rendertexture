@@ -8,11 +8,11 @@
 
 ### ライフゲーム
 
-![結果](Result1.gif)
+![結果](4_11_Scene1.gif)
 
 ### Curl noise
 
-![結果](Result2.gif)
+![結果](4_11_Scene2.gif)
 
 ### あなたの考えた素敵なシェーダー
 
